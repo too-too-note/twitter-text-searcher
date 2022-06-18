@@ -71,6 +71,6 @@ export default {
     }
   },
 
+  // 追加
   serverMiddleware: ['~/api']
-
 }
